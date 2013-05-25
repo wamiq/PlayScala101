@@ -1,0 +1,6 @@
+2013-05-25 15:53:32,237  WARN [Worker-83] - EclipseSbtBuildManager - Error reading API from class file : java.lang.ClassNotFoundException: controllers.routes
+2013-05-25 15:53:32,250  WARN [Worker-83] - EclipseSbtBuildManager - Error reading API from class file : java.lang.ClassNotFoundException: controllers.routes$javascript
+2013-05-25 15:53:32,251  WARN [Worker-83] - EclipseSbtBuildManager - Error reading API from class file : java.lang.ClassNotFoundException: controllers.routes$ref
+2013-05-25 15:54:58,877  WARN [Worker-85] - EclipseSbtBuildManager - Error reading API from class file : java.lang.UnsupportedClassVersionError: controllers/routes : Unsupported major.minor version 51.0
+2013-05-25 15:54:58,878  WARN [Worker-85] - EclipseSbtBuildManager - Error reading API from class file : java.lang.UnsupportedClassVersionError: controllers/routes$javascript : Unsupported major.minor version 51.0
+2013-05-25 15:54:58,878  WARN [Worker-85] - EclipseSbtBuildManager - Error reading API from class file : java.lang.UnsupportedClassVersionError: controllers/routes$ref : Unsupported major.minor version 51.0

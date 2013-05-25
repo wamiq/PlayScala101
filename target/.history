@@ -1,0 +1,10 @@
+run
+eclipsify
+eclipse
+~ run
+eclipse
+~ run
+exit
+~ run
+ls
+exit
